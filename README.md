@@ -1,4 +1,4 @@
 spring-boot-mvc
 ===============
 
-spring boot mvc + mybatis + velcity
+spring boot mvc + mybatis + velocity

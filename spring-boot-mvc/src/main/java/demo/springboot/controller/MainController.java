@@ -16,7 +16,7 @@ import demo.springboot.domain.User;
 import demo.springboot.service.UserService;
 
 /**
- * Created by woniper on 14. 10. 25..
+ * spring boot mvc demo
  */
 @Controller
 @RequestMapping("/")
